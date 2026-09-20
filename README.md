@@ -1,7 +1,9 @@
 # BunnyClock
 A small, cute desktop clock built with Java Swing that displays the current time and date in a simple bunny-themed widget.
 
-<img src="resources/bunnyclock2.png" alt="Bunny Clock" width="100%">
+<p align="center">
+<img src="resources/bunnyclock2.png" alt="Bunny Clock" width="60%">
+</p>
 
 The project is designed as a portable Windows desktop application. You can download it, run it, and use it without installing Java or any additional dependencies.
 
@@ -26,7 +28,9 @@ The Java program is first compiled into a .jar file. Launch4j is then used to cr
 
 **Windows only**: The current release is packaged as a Windows executable.
 
-<img src="resources/bunnyclock1.png" alt="Bunny Clock" width="300">
+<p align="center">
+<img src="resources/bunnyclock1.png" alt="Bunny Clock" width="60%">
+</p>
 
 ## Running From Source
 If you want to experiment with the source code, you'll need a Java development environment.
