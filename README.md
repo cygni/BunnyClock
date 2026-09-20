@@ -40,5 +40,5 @@ I was bored. This was a small personal project to learn more about Java desktop 
 This project is mainly a learning/personal project and may receive improvements or small changes in the future. If you have any suggestions, let me know. 
 
 <p align="right">
-<img src="resources/icon.png" alt="Bunny Clock" width="30%">
+<img src="resources/icon.png" alt="Bunny Clock" width="100">
 </p>
