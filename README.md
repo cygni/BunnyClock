@@ -39,3 +39,6 @@ If you want to experiment with the source code, you'll need a Java development e
 I was bored. This was a small personal project to learn more about Java desktop application development, Swing, threads, and packaging Java applications for distribution.
 This project is mainly a learning/personal project and may receive improvements or small changes in the future. If you have any suggestions, let me know. 
 
+<p align="right">
+<img src="resources/icon.png" alt="Bunny Clock" width="30%">
+</p>
